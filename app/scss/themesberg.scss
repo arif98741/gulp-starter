@@ -1,0 +1,37 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+//@import '../../node_modules/font-awesome/scss/font-awesome.scss';
+
+$color-white: #fff;
+$color-orange: green;
+$color-red: red;
+$color-black: #3e3e3e;
+
+*{
+    margin: 0; padding:  0;
+}
+body{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    background: #{$color-black};
+    height: 100px;
+}
+
+.navbar {
+    
+    .navbar-brand {
+       
+    }
+
+    .navbar-nav{
+       
+    }
+    .navbar-nav .nav-item{
+        
+    }
+    .navbar-nav .nav-item a{
+        color: #{$color-white};
+    }
+}
