@@ -1,0 +1,14 @@
+div {    
+    display: block; 
+   	&.content {       
+        position: relative;    
+    } 
+} 
+
+.red { 
+    color: green; 
+}
+
+.content{
+    display:block;
+}
